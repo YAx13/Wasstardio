@@ -1,0 +1,62 @@
+Structure du dossier
+Le numéro de série du volume est 8455-7515
+C:.
+|   .gitattributes
+|   index.html
+|   run-game.cmd
+|   structure.txt
+|   update_structure.cmd
+|   
++---css
++---decor idea
+|       image (27).jpg
+|       image_33c7eb30.jpg
+|       image_47ac1b00.jpg
+|       image_4a3524bb.jpg
+|       image_584c0126.jpg
+|       image_6117fa0b.jpg
+|       image_68a8f424.jpg
+|       image_7c0ea01b.jpg
+|       image_7f2ecc30 (1).jpg
+|       image_7f2ecc30.jpg
+|       image_81cba384.jpg
+|       image_8b9eae4e.jpg
+|       image_92f6e203.jpg
+|       image_a275f3d6.jpg
+|       image_ab43b2d7.jpg
+|       image_b20cc614.jpg
+|       image_b4ae3dde.jpg
+|       image_d20eb76c.jpg
+|       image_e58a1f23.jpg
+|       image_f1e30ebb.jpg
+|       image_f249e433.jpg
+|       
+\---js
+    |   main.js
+    |   Nouveau Document texte.txt
+    |   
+    +---core
+    |       runDirector.js
+    |       state.js
+    |       
+    +---engines
+    |       audioProcedural.js
+    |       filterSystem.js
+    |       lootEngine.js
+    |       merchantEngine.js
+    |       physicsEngine.js
+    |       
+    +---entities
+    |       constellations.js
+    |       spawnFactory.js
+    |       worldFactory.js
+    |       
+    +---input
+    |       inputHandler.js
+    |       
+    \---rendering
+            fxVisualEngine.js
+            gameRender3D.js
+            uiCampRenderer.js
+            uiConstellationRenderer.js
+            
